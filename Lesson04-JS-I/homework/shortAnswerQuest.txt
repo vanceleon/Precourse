@@ -1,0 +1,13 @@
+Variables: names in code that have value given to them. 
+
+Strings: are a type of variable that contain words and visual representation (uncalculated numbers) 
+to what the variable is.
+
+Functions: are rules that people use when they have things they want to put in and then receive a 
+result after rules are followed
+
+if statements are conditional rules (functions) that are executed/performed when certain rules are met 
+in the statement 
+
+Boolean Values: simple form, True and False statements.
+
